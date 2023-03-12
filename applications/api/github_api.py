@@ -1,0 +1,2 @@
+class GitGubAPI:
+    pass
